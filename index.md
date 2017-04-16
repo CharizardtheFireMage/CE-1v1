@@ -6,6 +6,7 @@ If you are not familiar with what is Catch and Evolve in general, do not worry! 
 # Example of Playing C&E
 
 Person A: Starter?
+
 Person B (Host): Litten.
 
  • Person A makes a team with just Litten (you can create any set for your starter).
@@ -34,7 +35,6 @@ Rules of C&E 1v1:
 
 # Host Guide to C&E 1v1
 
-
-
+If you want to know how to host the regular C&E tournaments as a host, please refer to this [old guide](https://charizardthefiremage.github.io/ce/).
 
  
