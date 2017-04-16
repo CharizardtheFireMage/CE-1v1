@@ -27,7 +27,11 @@ Rules of C&E 1v1:
 2. Bringing a standard 1v1 team during the tournament rather than the designated C&E 1v1 team will lead to a disqualification.
 3. When asking for your starter, please be patient as the C&E host has to give a starter for everyone that joins the tournament, not just you. If you are being unpatient and constantly ask for your starter, we have the right of giving you the starter last. 
 4. If you are not satisfied with the starter pokemon that you got from the host, you have the right to reroll for another starter. Please note, this is your final decision and you are forced to start the tournament with the rerolled pokemon. 
-5. You have the choice of replacing pokemon if you win a C&E 1v1 tournament battle as your team is restricted to 3 pokemon. Please remember that this is your final decision, and you can't use the replaced pokemon ever again as this tournament continues. 
+5. You have the choice of replacing pokemon if you win a C&E 1v1 tournament battle as your team is restricted to 3 pokemon. Please remember that this is your final decision, and you can't use the replaced pokemon ever again as this tournament continues.
+
+# Host Guide to C&E 1v1
+
+
 
 
  
