@@ -9,9 +9,13 @@ Person A: Starter?
 Person B (Host): Litten.
 
  • Person A makes a team with just Litten (you can create any set for your starter).
+ 
  • Person A faces Person C, who has a Rowlet.
+ 
  • Person A wins against Person C, and takes his Rowlet and adds it to his team.
+ 
  • Person A has the decision of evolving either his Litten or Rowlet.
+ 
  • Person A decides to evolve Litten into Torracat.
  
  This continues on, until Person A wins the tournament, or loses against someone.
