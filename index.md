@@ -37,4 +37,8 @@ Rules of C&E 1v1:
 
 If you want to know how to host the regular C&E tournaments as a host, please refer to this [old guide](https://charizardthefiremage.github.io/ce/).
 
- 
+• When hosting C&E 1v1, be sure to use this [C&E Generator](xfix.github.io/ce) to make it easy for you to give the users their starters.
+
+• To notify users about who should they PM for a starter, please type .cehost [host name] into the chat so then Arcoxia can be able to declare / addhtmlbox a button that users should press in order to ask for their starter from the right host. 
+
+• If an user wants a reroll, please give him a reroll for another starter. Each user has one reroll during the beginning of the tournament (before R1). They can't ask for another re-roll after. If you, by any means, refuse to re-roll for an user because of some personal reasons, that will lead to future punishment. 
