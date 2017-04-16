@@ -27,7 +27,7 @@ Basically C&E 1v1 is an event at which rather than using the model of C&E (6v6),
 
 Rules of C&E 1v1:
 -----------------
-1. Scouting is prohibited and will not be tolerated. Even though scouting will be turned off during the tournament, people might leak sets or pokemon that an user is having/using. If any user is caught leaking anything about their opponent (if they lost), they will be muted or banned from tournaments for a while as a punishment. 
+1. Scouting is prohibited. Even though scouting will be turned off during the tournament, people might leak sets or pokemon that an user is having/using.
 2. Bringing a standard 1v1 team during the tournament rather than the designated C&E 1v1 team will lead to a disqualification.
 3. When asking for your starter, please be patient as the C&E host has to give a starter for everyone that joins the tournament, not just you. If you are being unpatient and constantly ask for your starter, we have the right of giving you the starter last. 
 4. If you are not satisfied with the starter pokemon that you got from the host, you have the right to reroll for another starter. Please note, this is your final decision and you are forced to start the tournament with the rerolled pokemon. 
