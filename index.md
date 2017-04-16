@@ -37,7 +37,7 @@ Rules of C&E 1v1:
 
 If you want to know how to host the regular C&E tournaments as a host, please refer to this [old guide](https://charizardthefiremage.github.io/ce/).
 
-• When hosting C&E 1v1, be sure to use this [C&E Generator](xfix.github.io/ce) to make it easy for you to give the users their starters.
+• When hosting C&E 1v1, be sure to use this [C&E Generator](https://xfix.github.io/ce) to make it easy for you to give the users their starters.
 
 • To notify users about who should they PM for a starter, please type .cehost [host name] into the chat so then Arcoxia can be able to declare / addhtmlbox a button that users should press in order to ask for their starter from the right host. 
 
