@@ -1,23 +1,33 @@
+This guide will teach anyone about what is C&E 1v1 and how to host the event in the Azure 1v1 room if Sundar is not present to host. 
+
+# Catch and Evolve 
+
+If you are not familiar with what is Catch and Evolve in general, do not worry! Catch and Evolve is a tier at which the user is given a LC starter by the C&E Host, and he/she has to use it during the tournament. If he wins a battle against an opponent, he has the option of "stealing" the opponent's pokemon and evolving one of the pokemon he/she has in his/her team. This will continue until the user had won the tournament. Always remember that Focus Sash is banned in the first round. 
+
+# Example of Playing C&E
+
+Person A: Starter?
+Person B (Host): Litten.
+
+ • Person A makes a team with just Litten (you can create any set for your starter).
+ • Person A faces Person C, who has a Rowlet.
+ • Person A wins against Person C, and takes his Rowlet and adds it to his team.
+ • Person A has the decision of evolving either his Litten or Rowlet.
+ • Person A decides to evolve Litten into Torracat.
+ 
+ This continues on, until Person A wins the tournament, or loses against someone.
+ 
+# What is C&E 1v1 and the rules to this event?
+
+Basically C&E 1v1 is an event at which rather than using the model of C&E (6v6), it has been manipulated to work with the 1v1 tier. The difference between C&E (in general) and C&E 1v1 is that you are restricted to using one pokemon during the battle in the C&E 1v1 event (rather than the standard 1-6 pokemon). Even though C&E allows Focus Sash R1, C&E 1v1 bans the use of having the item. 
+
+Rules of C&E 1v1:
+-----------------
+1. Scouting is prohibited and will not be tolerated. Even though scouting will be turned off during the tournament, people might leak sets or pokemon that an user is having/using. If any user is caught leaking anything about their opponent (if they lost), they will be muted or banned from tournaments for a while as a punishment. 
+2. Bringing a standard 1v1 team during the tournament rather than the designated C&E 1v1 team will lead to a disqualification.
+3. When asking for your starter, please be patient as the C&E host has to give a starter for everyone that joins the tournament, not just you. If you are being unpatient and constantly ask for your starter, we have the right of giving you the starter last. 
+4. If you are not satisfied with the starter pokemon that you got from the host, you have the right to reroll for another starter. Please note, this is your final decision and you are forced to start the tournament with the rerolled pokemon. 
+5. You have the choice of replacing pokemon if you win a C&E 1v1 tournament battle as your team is restricted to 3 pokemon. Please remember that this is your final decision, and you can't use the replaced pokemon ever again as this tournament continues. 
+
 
  
-### General things you need to know:
-1. You are now room staff. This means you represent Other Metas throughout the entire server. If we find out you have a bad reputation around the server and are making us look like we have bad auth, we will not think twice before demoting you. Also, do NOT advertise in other official rooms. It was ok if you were a reg and didn't know the rules, oh well. But now, you represent us and if you advertise in another official room, it brings shame.
-2. You should know the majority if not all of the tiers on the poll and how they are played. If someone came in and asked: What is 2v2? You should be able to give them a adequate response. If not, you can always do !om tier.
-3. We do not have a staff room, but we have a staff group chat on skype. You are expected to be able to join us, as many important conversations come up from time to time, where we need all staff input.
-4. You may nominate for driver or voice either by PMing a room senior staff (&/#) or by posting in chat. We will hold a vote from there.
-5. Do NOT tell the person you nominated that you nominated them. That is considered leaking and will be punished.
-6. Driver require a bit of work to earn, because you have to prove we can trust you as a voice and you are willing to work hard enough. However, this position, like all the rest, is fairly easy to lose. We are looking for 30+ logged actions per month. (You can check by using /modlog username). This sounds like a lot, but it is definitely not. When you start and end polls, it already registers as an action, along with DQing people, starting tours, setting autodq, and setting autostart. We periodically assess our staff and promote and demote.
- 
-### How to moderate:
-If you are unfamiliar with the commands, the three you need to know are:
-- /warn user,reason for warn
-- /mute user,reason for mute
-- /hm user, reason for mute
-(**Note: Reason is unnecessary if you don't want to or if it's obvious like spam.**)
-- /warn will give the user a pop-up for 5 seconds. Use this when they post something inappropriate or advertise for another room, etc.
-- /mute will mute the user for 7 mins. Use this when they have been warned already, or in more extreme cases, post something flat out wrong.
-- /hm will mute the user for 60 mins. Use this when they have been warned multiple times, possibly muted, and continue to defy orders. You can also jump straight to this if they spam.
-
-The most important part I stress about this is: Use your judgement!! You don't always have to follow these rules. Just do what you think is right.
- 
-I know this was probably painful and boring to read through, but now you are much better off than those who just decided not to read this. Thank you for your time, and keep working hard!
