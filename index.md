@@ -1,4 +1,3 @@
-This guide will teach anyone about what is C&E 1v1 and how to host the event in the Azure 1v1 room if Sundar is not present to host. 
 
 # Catch and Evolve 
 
